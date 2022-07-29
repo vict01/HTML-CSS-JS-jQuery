@@ -1,0 +1,17 @@
+{
+    "name": "js-blog-website",
+    "version": "0.1.0",
+    "description": "JS blog website",
+    "main": "index.html",
+    "scripts": {
+        "test": "explorer index.html"
+    },
+    "author": "Victor Caminero",
+    "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JS",
+        "jQuery"
+    ]
+}

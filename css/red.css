@@ -1,0 +1,19 @@
+body {
+    background: url("../img/rojo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#logo,
+#menu li :hover,
+.button-more {
+    background: #ca3413;
+}
+
+.ui-state-active {
+    background: #ca3413 !important;
+}
+
+.button {
+    background-color: #ca3413;
+}

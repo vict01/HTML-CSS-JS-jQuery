@@ -1,0 +1,19 @@
+body {
+    background: url("../img/teal_landscape.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#logo,
+#menu li :hover,
+.button-more {
+    background: darkcyan;
+}
+
+.ui-state-active {
+    background: darkcyan !important;
+}
+
+.button {
+    background-color: darkcyan;
+}
